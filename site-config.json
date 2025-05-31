@@ -1,0 +1,17 @@
+{
+  "siteName": "WebGen Example",
+  "theme": {
+    "heroBackgroundColor": "#e0f2fe",
+    "heroTextColor": "#075985",
+    "heroButtonBackgroundColor": "#0ea5e9",
+    "heroButtonTextColor": "#ffffff"
+  },
+  "hero": {
+    "title": "I got this data from the siteconfig.json file",
+    "subtitle": "This hero section is dynamically configured.",
+    "cta": {
+      "text": "Bigger weapons",
+      "href": "https://www.hutter.studio/?ref=webgen"
+    }
+  }
+}
